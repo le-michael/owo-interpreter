@@ -1,5 +1,5 @@
 # OwO-interpreter
-An interpreter for the world's greatest programming language OwO code.
+An interpreter for the world's greatest programming language OwO code. (you're welcome)
 
 ## Example
 ```
